@@ -1,52 +1,52 @@
-# Claude 提示词工程交互式教程 (Qwen 版本)
+# Claude Prompt Engineering Interactive Tutorial (Qwen Edition)
 
-## 说明
+## Overview
 
-由于国内使用 Claude API 不方便，本教程提供了一个使用 **Qwen 模型**的本地化版本。您可以通过阿里云的 Qwen API 在本地环境中学习和实践提示词工程技巧。
+Since using Claude API in China can be inconvenient, this tutorial provides a localized version using **Qwen models**. You can learn and practice prompt engineering techniques in your local environment through Alibaba Cloud's Qwen API.
 
-本版本将原 Claude 教程改编为 Qwen 模型，让国内用户可以更便捷地学习大模型提示词工程的最佳实践。
+This version adapts the original [Claude prompt engineering tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) for Qwen models, allowing users in China to conveniently learn best practices in large language model prompt engineering.
 
-## 课程简介
+## Course Introduction
 
-本课程旨在帮助您全面系统地掌握如何为大语言模型设计最优提示词。虽然原教程针对 Claude，但提示词工程的核心原则和技巧同样适用于 Qwen 等其他大语言模型。
+This course aims to help you comprehensively and systematically master how to design optimal prompts for large language models. Although the original tutorial targets Claude, the core principles and techniques of prompt engineering equally apply to other large language models like Qwen.
 
-**完成本课程后，您将能够**:
-- 掌握良好提示词的基本结构
-- 识别常见的失败模式并学习"80/20"技巧来解决它们
-- 了解大语言模型的优势和局限性
-- 从零开始为常见用例构建强大的提示词
+**After completing this course, you will be able to**:
+- Master the basic structure of effective prompts
+- Identify common failure patterns and learn "80/20" techniques to address them
+- Understand the strengths and limitations of large language models
+- Build powerful prompts for common use cases from scratch
 
-## 课程结构
+## Course Structure
 
-本课程包含 **9 个章节及配套练习**，以及一个包含更多高级方法的附录。建议您**按章节顺序学习**。
+This course contains **9 chapters with accompanying exercises**, plus an appendix with additional advanced methods. It is recommended that you **study the chapters in order**.
 
-**每节课底部都有"示例演练区"**，您可以在其中自由实验课程示例，亲自体验改变提示词如何影响 Qwen 的响应。
+**At the bottom of each lesson there is a "Practice Sandbox"**, where you can freely experiment with course examples and personally experience how changing prompts affects Qwen's responses.
 
-准备好后，请打开 `01_Basic_Prompt_Structure.ipynb` 开始学习。
+When ready, open `01_Basic_Prompt_Structure.ipynb` to start learning.
 
-## 目录
+## Table of Contents
 
-课程分为初级、中级和高级三个部分：
+The course is divided into three levels: beginner, intermediate, and advanced:
 
-### 初级
-- **第1章：** 基本提示词结构
+### Beginner
+- **Chapter 1:** Basic Prompt Structure
 
-- **第2章：** 清晰明确的表达
+- **Chapter 2:** Being Clear and Direct
 
-- **第3章：** 角色分配
+- **Chapter 3:** Assigning Roles
 
-### 中级
-- **第4章：** 分离数据和指令
+### Intermediate
+- **Chapter 4:** Separating Data and Instructions
 
-- **第5章：** 格式化输出与代表 Claude 发言
+- **Chapter 5:** Formatting Output and Speaking for Claude
 
-- **第6章：** 预见性思考（逐步思考）
+- **Chapter 6:** Precognition (Thinking Step by Step)
 
-- **第7章：** 使用示例
+- **Chapter 7:** Using Examples
 
-### 高级
-- **第8章：** 避免幻觉
+### Advanced
+- **Chapter 8:** Avoiding Hallucinations
 
-- **第9章：** 构建复杂提示词（行业用例）
+- **Chapter 9:** Building Complex Prompts (Industry Use Cases)
 
-- **附录：** 超越标准提示词技巧
+- **Appendix:** Beyond Standard Prompt Techniques
